@@ -1,0 +1,5 @@
+databaseChangeLog:
+  - include:
+      file: db/changelog/01-2022-04-08-create-database.sql
+  - include:
+      file: db/changelog/02-2022-04-08-test-data.sql
